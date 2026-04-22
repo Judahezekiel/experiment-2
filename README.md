@@ -24,7 +24,7 @@ The dashboard uses a responsive layout and an iframe to display each experiment 
 - JavaScript (ES6), DOM API  
 
 ## Demo URL
-[https://25bcc80001-experiment-2.netlify.app/]
+[(https://24bcc70031-exp-2.netlify.app/)]
 
 ## How to Run Locally
 1. Clone the repository:  
